@@ -1,3 +1,6 @@
-server:port:9091
-spring:application:name:bookservice
+server:
+  port:9091
+spring:
+  application:
+    name:bookservice
 test:this is webhook demo
